@@ -1,2 +1,2 @@
-# AndroidRoomView
-Use the Room database in Android
+# PhonebookAndroid
+Use the Room database to create a phonebook in Android
